@@ -1,4 +1,5 @@
 1. Barber appointment app
+    Booking appointment app tailored to barbers
     - User can log in and see barbers as well as their work given their location (would need to use an API)
     - Unique features
         - Deposit for after hours slots (is optional and can be toggled off, would be up to the barber)
@@ -9,6 +10,7 @@
         - Pricing can change when the barber is trying to get a specific day filled
         - Customers can book with or without an account, but the account will give them access to more listed features
 2. MCN for haha vending machines
+    AI vending machine business manager that keeps track of sales, P/L, and restocking
     - Keeps track of stock
         - Texts you when stock is low
         - Has a button that shows you what you need to restock at any moment
@@ -16,6 +18,7 @@
     - Already has an api
     - Will honestly be incredibly useful
 3. Day of ops assistant
+    A software that makes doing Amazon DSP daily operations a bit easier
     - Create a backend to store all employee names
     - Read amazon logistics to find who is working and who are extras
     - Read texts from linqops and automatically add call outs
