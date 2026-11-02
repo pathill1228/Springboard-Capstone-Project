@@ -1,0 +1,26 @@
+1. Barber appointment app
+    - User can log in and see barbers as well as their work given their location (would need to use an API)
+    - Unique features
+        - Deposit for after hours slots (is optional and can be toggled off, would be up to the barber)
+        - Barber can put how long they take to cut the user if they are recurring and the barber has the cut down
+            - Person can choose that they would like something different to request a longer time slot. Could be a prompt
+        - People can leave reviews for their barbers
+        - Charge more or less for different days eg. Fridays, the day before a holiday, back to school time, etc.
+        - Pricing can change when the barber is trying to get a specific day filled
+        - Customers can book with or without an account, but the account will give them access to more listed features
+2. MCN for haha vending machines
+    - Keeps track of stock
+        - Texts you when stock is low
+        - Has a button that shows you what you need to restock at any moment
+    - Can add your bank account to see P/L and tax data
+    - Already has an api
+    - Will honestly be incredibly useful
+3. Day of ops assistant
+    - Create a backend to store all employee names
+    - Read amazon logistics to find who is working and who are extras
+    - Read texts from linqops and automatically add call outs
+    - Stores who was an extra, told to stay home, VTO’d, etc
+    - Displays who has not worked enough and who has worked the most
+    - Find patterns in when people call out
+    - Already designed a front end for it
+    - Would be useful for my current job and could probably give it to my managers to utilize
